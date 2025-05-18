@@ -6,6 +6,10 @@
 
 ---
 
+## 📈 Dashboard Preview
+
+![Oral Cancer Dashboard](https://github.com/ahmadyase1234/oral-cancer-analysis/blob/main/oral%20cancer%20analysis/oral%20cancer%20analysis%20(2).PNG?raw=true)
+------
 ## 📝 Introduction
 
 <details>
@@ -66,11 +70,8 @@ This dashboard focuses on:
 4. Created DAX measures for key performance indicators  
 5. Designed an interactive dashboard with slicers, maps, and visuals
 
----
 
-## 📈 Dashboard Preview
 
-![Oral Cancer Dashboard](https://github.com/ahmadyase1234/oral-cancer-analysis/blob/main/oral%20cancer%20analysis/oral%20cancer%20analysis%20(2).PNG?raw=true)
 
 ---
 
